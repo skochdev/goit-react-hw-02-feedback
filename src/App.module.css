@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  width: 768px;
+  padding-left: var(--default-horizontal-padding);
+  padding-right: var(--default-horizontal-padding);
+  margin: 0 auto;
 }
 
 .App-logo {
